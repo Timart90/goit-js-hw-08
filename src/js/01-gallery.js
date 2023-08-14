@@ -31,4 +31,4 @@ let lightbox = new SimpleLightbox('.gallery a', {
   captionDelay: 250,
 })
 
-
+ul.style.listStyle = 'none';
